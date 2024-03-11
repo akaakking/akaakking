@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hello, I'm akaakking!
 
-<!--
-**akaakking/akaakking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a senior student in university, specializing in software backend development.
 
-Here are some ideas to get you started:
+💼 **Work Experience**:
+- Tencent - 分布式云
+- Meituan - 商企通
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Currently Reading**:
+- "沧浪之水" 
+- "天堂与蒜薹之歌" 
+- "Essential Domain-Driven Design" 
+
+💭 **Recent Reflections**:
+- Lately, I've been pondering the vastness of this world, akin to a grand stage with diverse actors.
+
+💻 **Current Activities**:
+- Working on my graduation project.
+- Learning to drive.
