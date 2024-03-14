@@ -12,7 +12,7 @@ I'm currently a senior student in university, specializing in software backend d
 - "Essential Domain-Driven Design" 
 
 💭 **Recent Reflections**:
-- Lately, I've been pondering the vastness of this world, akin to a grand stage with diverse actors.
+- Lately, I've increasingly come to think that this world resembles a vast disorganized troupe, akin to a grass-stage ensemble lacking organization and discipline.
 
 💻 **Current Activities**:
 - Working on my graduation project.
